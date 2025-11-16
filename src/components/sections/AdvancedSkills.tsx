@@ -10,10 +10,21 @@ export const AdvancedSkills = () => {
           <div>
             <h3 className="text-2xl font-semibold mb-4 text-primary">Data Structures & Algorithms Mastery</h3>
             <p className="text-foreground/90 mb-4">
-              Solved 200+ problems across various platforms, demonstrating proficiency in complex problem-solving and algorithmic thinking.
+              Solved 200+ problems across various platforms, demonstrating proficiency in complex problem-solving and algorithmic thinking. Strong understanding of time and space complexity, tree traversals, dynamic programming, graph algorithms, and greedy approaches.
             </p>
-            <div className="bg-muted p-4 rounded-lg font-mono text-sm overflow-x-auto">
-              <pre className="text-foreground">{`// Binary Search Tree Implementation
+          </div>
+
+          <div>
+            <h3 className="text-2xl font-semibold mb-4 text-primary">Full-Stack Web Development</h3>
+            <p className="text-foreground/90 mb-4">
+              Proficient in building end-to-end web applications using modern frameworks and best practices. Experienced with React, Node.js, Express.js, and MongoDB for creating responsive, scalable applications.
+            </p>
+          </div>
+
+          <div>
+            <h3 className="text-2xl font-semibold mb-4 text-primary">Backend API Development</h3>
+            <p className="text-foreground/90 mb-4">
+              Experience in creating RESTful APIs with proper authentication and database integration. Skilled in designing efficient database schemas and implementing secure authentication systems.
 class TreeNode:
     def __init__(self, value):
         self.value = value
