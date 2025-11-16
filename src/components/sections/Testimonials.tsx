@@ -3,12 +3,6 @@ import { Avatar } from "@/components/ui/avatar";
 
 const testimonials = [
   {
-    name: "Dr. Rajesh Kumar",
-    role: "Professor, Computer Engineering Department, PDEU",
-    text: "Jenish has consistently demonstrated exceptional problem-solving abilities and a deep understanding of computer science fundamentals. His project work shows creativity and technical competence beyond his years. He's always eager to learn and help fellow students.",
-    initial: "RK"
-  },
-  {
     name: "Priya Sharma",
     role: "Teammate, Smart India Hackathon 2024",
     text: "Working with Jenish during SIH 2024 was an incredible experience. He quickly understood complex requirements and translated them into working code. His calm demeanor under pressure and willingness to collaborate made our team stronger.",
@@ -19,12 +13,6 @@ const testimonials = [
     role: "Former Kabaddi Team Member",
     text: "As our team captain, Jenish taught us what true leadership looks like. He never asked us to do something he wouldn't do himself. His strategic thinking on the field and ability to keep the team motivated during tough matches were remarkable.",
     initial: "AP"
-  },
-  {
-    name: "Neha Desai",
-    role: "Study Group Partner, Data Structures & Algorithms",
-    text: "Jenish has a unique ability to break down complex algorithms into simple concepts. When I struggled with dynamic programming, he patiently explained different approaches until I understood. His passion for coding is contagious!",
-    initial: "ND"
   }
 ];
 
